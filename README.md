@@ -77,4 +77,4 @@ Original code and text: MIT (see [`LICENSE`](LICENSE)). Cube 3D code and weights
 
 ## Academic-integrity note
 
-This code supports a university assessment in which generative-AI use was permitted subject to disclosure. AI tools helped with parts of the notebooks and write-up; see the AI Use Declaration in the submitted report for details. Reuse for your own coursework should follow your institution's policies.
+This code supports a university assessment in which generative-AI use was permitted subject to disclosure. AI tools helped with parts of the notebooks; see the AI Use Declaration in the submitted report for details. Reuse for your own coursework should follow your institution's policies.
