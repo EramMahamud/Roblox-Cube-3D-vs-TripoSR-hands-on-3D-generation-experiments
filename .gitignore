@@ -1,0 +1,58 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+.python-version
+
+# --- Jupyter / Colab ---
+.ipynb_checkpoints/
+.virtual_documents/
+
+# --- Model weights and caches (large, third-party licensed) ---
+*.safetensors
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.bin
+model_weights/
+.cache/
+huggingface/
+.u2net/
+
+# --- Experiment outputs and evidence (regenerate by running the notebooks) ---
+assignment_outputs/
+triposr_outputs/
+triposr_inputs/
+*.obj
+*.glb
+*.gltf
+*.ply
+*.stl
+*.mp4
+*_evidence.zip
+*.zip
+
+# --- Assignment documents (keep private) ---
+*.docx
+*.pdf
+Assignment*/
+StudentID_*
+
+# --- Secrets ---
+.env
+*.key
+.hf_token
+token.txt
+
+# --- OS / editor ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

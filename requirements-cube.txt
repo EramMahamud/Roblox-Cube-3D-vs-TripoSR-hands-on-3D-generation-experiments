@@ -1,0 +1,6 @@
+# Reference pins used for Experiment A (Google Colab, Python 3.13, T4 GPU).
+# The notebook installs these itself; this file is documentation.
+transformers==5.16.1
+huggingface-hub==1.33.0   # must stay < 2.0 for this Transformers build
+# Cube 3D itself is installed from the official repo: pip install -e . (inside the cloned Roblox/cube)
+# Also used by the analysis cells (preinstalled in Colab): trimesh, numpy, plotly
